@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasecync",
+        "uuid": 26345025,
+        "checksum": "8llczk"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
